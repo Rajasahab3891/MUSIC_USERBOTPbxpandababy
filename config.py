@@ -47,8 +47,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/HEROKUBIN_01")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/THE_PUNJABI_BANDE")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PandaLovebaby")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TWC_CHATS")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
